@@ -1,0 +1,86 @@
+#EXTINF:-1 group-title="PLAY", STAR PLUS
+http://103.55.144.46/hls/starplus.m3u8
+#EXTINF:-1 group-title="PLAY", STAR PLUS
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", STAR BHARAT
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", STAR BHARAT HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21042&extension=ts&play_token=GnI7Fum8Zy
+#EXTINF:-1 group-title="PLAY", STAR UTSAV
+http://144.217.70.181:9587/hin2/STARUTSAV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", SONY
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", SONY
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_SD&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY HD
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+#EXTINF:-1 group-title="PLAY", SONY SAB
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_SAB&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY SAB
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", SONY PAL
+http://144.217.70.181:9587/hin2/SONYPAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", ZEETV
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeetv
+#EXTINF:-1 group-title="PLAY", ZEETV HD
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeetvhd
+#EXTINF:-1 group-title="PLAY", &TV HD
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-tvhd_0
+#EXTINF:-1 group-title="PLAY", ZEE ANMOL
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeeanmol
+#EXTINF:-1 group-title="PLAY", COLORS TV http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/chunklist_w2110031398.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS TV
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_SD&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS HD
+http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS RISHTEY
+http://103.139.171.5:5001/jiotvplus/live.php?c=Rishtey&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", BIG MAGIC
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21191&extension=ts&play_token=WJUuwaNqaa
+#EXTINF:-1 group-title="PLAY", DANGAL
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21136&extension=ts&play_token=NxmNRBFpnX
+#EXTINF:-1 group-title="PLAY", SHEMAROO TV
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
+#EXTINF:-1 group-title="PLAY", SHEMAROO UMANG
+https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8
+#EXTINF:-1 group-title="PLAY", ISHARA TV
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
+#EXTINF:-1 group-title="PLAY", AZAAD TV
+https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
+#EXTINF:-1 group-title="PLAY", ATRANGI
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 group-title="PLAY", THE Q
+https://m-c04-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
+#EXTINF:-1 group-title="PLAY",THE Q KAHANIYAN
+http://103.139.171.5:5001/jiotvplus/live.php?c=TheQ_Kahaniyan&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", INVESTIGATION DISCOVERY
+http://103.139.171.5:5001/jiotvplus/live.php?c=ID&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", DD NATIONAL
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8
+#EXTINF:-1 group-title="PLAY", DD BHARATI
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-ddbharati
+#EXTINF:-1 group-title="PLAY",DD RETRO
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="PLAY",SAHARA ONE
+http://144.217.70.181:9587/hin2/SAHARAONE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", FIRANGI
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
+#EXTINF:-1 group-title="PLAY", ABZY COOL
+https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
+#EXTINF:-1 group-title="PLAY",DD INDIA
+http://103.139.171.5:5001/jiotvplus/live.php?c=DD_India&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", EPIC
+http://103.139.171.5:5001/jiotvplus/live.php?c=Epic_HD&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", MH1 DIL SE
+http://103.139.171.5:5001/jiotvplus/live.php?c=MH1_DilSe&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", ZEE YUVA
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Yuva&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", RANGAMANCH
+http://103.139.171.5:5001/jiotvplus/live.php?c=Rangamanch&q=400&e=junk.m3u8
+
+
+
+
+
