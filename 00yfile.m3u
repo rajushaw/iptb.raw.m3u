@@ -1,0 +1,34 @@
+#EXTINF:-1 group-title="PLAY", STAR SPORTS1 HINDI
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20732&extension=ts&play_token=sjPrtmW6H9
+#EXTINF:-1 group-title="PLAY", STAR SPORTS1 HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20730&extension=ts&play_token=T0o3jUHnwC
+#EXTINF:-1 group-title="PLAY", STAR SPORTS2 HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20731&extension=ts&play_token=Y1tOtIIOrJ
+#EXTINF:-1 group-title="PLAY", STAR SPORTS3
+http://208.86.19.13:81/732.stream/index.m3u8
+#EXTINF:-1 group-title="PLAY", SONY SIX
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Six_SD&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY SIX HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20729&extension=ts&play_token=FQ9HoV09wu
+#EXTINF:-1 group-title="PLAY", SONY TEN1
+http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_1&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY TEN1 HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20727&extension=ts&play_token=6g3FSObvo1
+#EXTINF:-1 group-title="PLAY", SONY TEN2
+http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_2&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY TEN2 HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20726&extension=ts&play_token=WixK1XKVoF
+#EXTINF:-1 group-title="PLAY", SONY TEN3
+http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_3&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY TEN3 HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20725&extension=ts&play_token=t0AG8oi0YW
+#EXTINF:-1 group-title="PLAY", STAR SPORTS SELECT1 HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20733&extension=ts&play_token=8KsZWeCql4
+#EXTINF:-1 group-title="PLAY", STAR SPORTS SELECT2 HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20734&extension=ts&play_token=1vQpmcThXM
+#EXTINF:-1 group-title="PLAY", DD SPORTS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203422.ts
+#EXTINF:-1 group-title="PLAY", EURO SPORTS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203435.ts
+#EXTINF:-1 group-title="PLAY", STAR SPORTS TAMIL
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203421.ts
