@@ -1,4 +1,5 @@
-# iptv.raw.m3u
+[# iptv.raw.m3u
+https://github.com/IPTVcenter/play/raw/main/worldwide.m3u
 #EXTINF:-1 group-title="PLAY", DD BIHAR
 http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-ddbihar
 #EXTINF:-1 group-title="PLAY", DD UP
