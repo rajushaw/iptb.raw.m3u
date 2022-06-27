@@ -1,0 +1,26 @@
+#EXTINF:-1 group-title="PLAY", CARTOON NETWORK
+http://103.139.171.5:5001/jiotvplus/live.php?c=Cartoon_Network_Hindi&q=400&e=.m3u8
+#EXTINF:-1 group-title="PLAY", POGO HINDI
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY",DISCOVERY KIDS
+http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Kids_2&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", DISNEY CHANNEL
+http://103.179.246.243:8000/play/a01y
+#EXTINF:-1 group-title="PLAY", DISNEY JUNIOR
+http://103.179.246.243:8000/play/a020
+#EXTINF:-1 group-title="PLAY", HUNGAMA TV
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", SUPER HUNGAMA
+http://buxton.tk:8880/play/live.php?mac=00:1A:79:58:29:3c&stream=862679&extension=ts&play_token=dcStwniCyT
+#EXTINF:-1 group-title="PLAY", NICK JUNIOR
+http://103.139.171.5:5001/jiotvplus/live.php?c=Nick_Junior&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", NICK CHANNEL
+http://103.139.171.5:5001/jiotvplus/live.php?c=Nick_Hindi&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONIC TV
+http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", SONY YAY
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Yay_Hindi&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", GUBBARE TV
+https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+
+
