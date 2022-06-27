@@ -1,0 +1,96 @@
+#EXTINF:-1 group-title="PLAY", &PICTURES
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-pictures
+#EXTINF:-1 group-title="PLAY", &PICTURES HD
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-tvpictureshd
+#EXTINF:-1 group-title="PLAY", &XPLORE HD
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-209
+#EXTINF:-1 group-title="PLAY", ABZY MOVIES
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
+#EXTINF:-1 group-title="PLAY", B4U KADAK
+http://144.217.70.181:9587/hin2/B4UKADAK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 group-title="PLAY", CINEMA TV
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS CINEPLEX
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS CINEPLEX HD
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_HD&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS CINEPLEX BOLLYWOOD
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_Bollywood&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS CINEPLEX SUPERHITS
+http://103.139.171.5:5001/jiotvplus/live.php?c=Rishtey_Cineplex&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", DABANGG TV
+https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8
+#EXTINF:-1 group-title="PLAY", DANGAL2
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206261.ts
+#EXTINF:-1 group-title="PLAY", DILLAGI TV
+http://103.139.171.5:5001/jiotvplus/live.php?c=Dillagi_TV&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SAHARA FILMY
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 group-title="PLAY", MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 group-title="PLAY", MINIPLEX HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206248.ts
+#EXTINF:-1 group-title="PLAY", SONY MAX
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Max_SD&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY MAX HD
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Max_HD&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY MAX2
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_MAX2&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", SONY WAH
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Wah&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", STAR GOLD HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21058&extension=ts&play_token=r5ZV4igP28
+#EXTINF:-1 group-title="PLAY", STAR GOLD SELECT HD
+http://208.86.19.13:81/709.stream/index.m3u8
+#EXTINF:-1 group-title="PLAY", STAR GOLD2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", STAR UTSAV MOVIES
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206304.ts
+#EXTINF:-1 group-title="PLAY", UTV ACTION
+http://103.179.246.243:8000/play/a01p
+#EXTINF:-1 group-title="PLAY", UTV HD
+http://208.86.19.13:81/723.stream/index.m3u8
+#EXTINF:-1 group-title="PLAY", UTV MOVIES
+http://103.179.246.243:8000/play/a01o
+#EXTINF:-1 group-title="PLAY", WOW CINEMA
+http://144.217.70.181:9587/hin2/WOWCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", WOW CINEMA
+http://14.199.164.20:4001/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="PLAY", ZEE ACTION
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeeaction
+#EXTINF:-1 group-title="PLAY", ZEE ANMOL CINEMA
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeeanmolcinema
+#EXTINF:-1 group-title="PLAY", ZEE BOLLYWOOD
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeeclassic
+#EXTINF:-1 group-title="PLAY", ZEE CINEMA
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeecinema
+#EXTINF:-1 group-title="PLAY", ZEE CINEMA HD
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeecinemahd
+#EXTINF:-1 group-title="PLAY", ZEE CLASSIC
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-176
+#EXTINF:-1 group-title="PLAY", DHAMAAL TV
+http://103.139.171.5:5001/jiotvplus/live.php?c=Dhamaal_TV&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", MAIBOLI
+http://103.139.171.5:5001/jiotvplus/live.php?c=Maiboli&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", BOX CINEMA
+http://103.139.171.5:5001/jiotvplus/live.php?c=Box_Cinema&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", DHINCHAK1
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="PLAY", DHINCHAK2
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="PLAY", MOVIE PLUS
+http://14.199.164.20:4001/play/a0os/index.m3u8
+#EXTINF:-1 group-title="PLAY", MANORANJAN TV
+http://103.139.171.5:5001/jiotvplus/live.php?c=Manoranjan_TV&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", MANORANJAN GRAND
+http://103.139.171.5:5001/jiotvplus/live.php?c=Manoranjan_Grand&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", ENTERR10
+http://103.139.171.5:5001/jiotvplus/live.php?c=Enterr_10&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 group-title="PLAY", HIFF MOVIES
+https://m-c050-j2apps.s.llnwi.net/hls/8044.HiffMovies.in.m3u8
