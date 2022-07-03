@@ -1,0 +1,429 @@
+#EXTINF:-1 group-title="PLAY", STAR PLUS
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", STAR PLUS HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206306.ts
+#EXTINF:-1 group-title="PLAY", STAR BHARAT 
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", STAR BHARAT HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206309.ts
+#EXTINF:-1 group-title="PLAY", STAR UTSAV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206305.ts
+#EXTINF:-1 group-title="PLAY", SONY 
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", SONY HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206303.ts
+#EXTINF:-1 group-title="PLAY", ZEETV HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206312.ts
+#EXTINF:-1 group-title="PLAY", &TV HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206283.ts
+#EXTINF:-1 group-title="PLAY", ZEE ANMOL
+http://103.179.246.243:8000/play/a00s
+#EXTINF:-1 group-title="PLAY", COLORS TV
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/chunklist_w2110031398.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206292.ts
+#EXTINF:-1 group-title="PLAY", COLORS RISHTEY
+http://new-pro.tv:8080/mazen1/123456/178065
+#EXTINF:-1 group-title="PLAY", BIG MAGIC
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206279.ts
+#EXTINF:-1 group-title="PLAY", DANGAL TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206186.ts
+#EXTINF:-1 group-title="PLAY", DANGAL2
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206261.ts
+#EXTINF:-1 group-title="PLAY", SHEMAROO TV
+http://14.199.164.20:4001/play/a0nh/index.m3u8
+#EXTINF:-1 group-title="PLAY", SHEMAROO UMANG
+http://14.199.164.20:4001/play/a0nl/index.m3u8
+#EXTINF:-1 group-title="PLAY", ISHARA TV
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
+#EXTINF:-1 group-title="PLAY", AZAAD 
+https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
+#EXTINF:-1 group-title="PLAY", ATRANGI
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 group-title="PLAY", THEQ
+http://14.199.164.20:4001/play/a0nk/index.m3u8
+#EXTINF:-1 group-title="PLAY", INVESTIGATION DISCOVERY
+http://103.179.246.243:8000/play/a00j
+#EXTINF:-1 group-title="PLAY", DD NATIONAL
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206276.ts
+#EXTINF:-1 group-title="PLAY", DD BHARATI
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206274.ts
+#EXTINF:-1 group-title="PLAY", DD RETRO
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="PLAY", FIRANGI
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21182&extension=ts&play_token=Ifsx0VIIU6
+#EXTINF:-1 group-title="PLAY", SAHARA ONE
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206175.ts
+#EXTINF:-1 group-title="PLAY", ABZY COOL
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21083&extension=ts&play_token=A4jaGaykoo
+#EXTINF:-1 group-title="PLAY", &PICTURES HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206284.ts
+#EXTINF:-1 group-title="PLAY", ABZY MOVIES
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
+#EXTINF:-1 group-title="PLAY", B4U KADAK
+http://14.199.164.20:4001/play/a0nd/index.m3u8
+#EXTINF:-1 group-title="PLAY", B4U MOVIES
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206293.ts
+#EXTINF:-1 group-title="PLAY", BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 group-title="PLAY", CINEMA TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206213.ts
+#EXTINF:-1 group-title="PLAY", COLORS CINEPLEX
+http://103.179.246.243:8000/play/a04h
+#EXTINF:-1 group-title="PLAY", COLORS CINEPLEX HD 
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206278.ts
+#EXTINF:-1 group-title="PLAY", COLORS CINEPLEX BOLLYWOOD
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_Bollywood&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", COLORS CINEPLEX SUPERHITS
+http://103.139.171.5:5001/jiotvplus/live.php?c=Rishtey_Cineplex&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", DHINCHAK1
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="PLAY", DHINCHAK2
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="PLAY", FILMY
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206169.ts
+#EXTINF:-1 group-title="PLAY", MAHA MOVIE
+http://14.199.164.20:4001/play/a0q7/index.m3u8
+#EXTINF:-1 group-title="PLAY", MANORANJAN TV
+http://14.199.164.20:4001/play/a0m3/index.m3u8
+#EXTINF:-1 group-title="PLAY", MANORANJAN GRAND
+http://14.199.164.20:4001/play/a0m2/index.m3u8
+#EXTINF:-1 group-title="PLAY", MOVIE PLUS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206212.ts
+#EXTINF:-1 group-title="PLAY", STAR GOLD HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21058&extension=ts&play_token=r5ZV4igP28
+#EXTINF:-1 group-title="PLAY", STAR GOLD2
+http://103.179.246.243:8000/play/a01q
+#EXTINF:-1 group-title="PLAY", STAR GOLD SELECT HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206307.ts
+#EXTINF:-1 group-title="PLAY", STAR UTSAV MOVIES
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206304.ts
+#EXTINF:-1 group-title="PLAY", UTV MOVIES
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206195.ts
+#EXTINF:-1 group-title="PLAY", UTV ACTION
+http://103.179.246.243:8000/play/a01p
+#EXTINF:-1 group-title="PLAY", UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8
+#EXTINF:-1 group-title="PLAY", SONY MAX HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206302.ts
+#EXTINF:-1 group-title="PLAY", SONY MAX2
+http://103.179.246.243:8000/play/a01s
+#EXTINF:-1 group-title="PLAY", SONY WAH
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206296.ts
+#EXTINF:-1 group-title="PLAY", WOW CINEMA
+http://14.199.164.20:4001/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="PLAY", ZEE ACTION
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206313.ts
+#EXTINF:-1 group-title="PLAY", ZEE ANMOL CINEMA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206224.ts
+#EXTINF:-1 group-title="PLAY", ZEE BOLLYWOOD
+http://103.179.246.243:8000/play/a01r
+#EXTINF:-1 group-title="PLAY", ZEE CINEMA HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206311.ts
+#EXTINF:-1 group-title="PLAY", ZEE CLASSIC
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", 9X JALWA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206291.ts
+#EXTINF:-1 group-title="PLAY", 9XM
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206147.ts
+#EXTINF:-1 group-title="PLAY", B4U MUSIC
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206190.ts
+#EXTINF:-1 group-title="PLAY", I LOVE MUSIC
+http://14.199.164.20:4001/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="PLAY", MASTI TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206185.ts
+#EXTINF:-1 group-title="PLAY", MTV BEATS HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206246.ts
+#EXTINF:-1 group-title="PLAY", MUSIC INDIA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206244.ts
+#EXTINF:-1 group-title="PLAY", SHOWBOX MUSIC
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 group-title="PLAY", ZOOM
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206288.ts
+#EXTINF:-1 group-title="PLAY", E24
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206262.ts
+#EXTINF:-1 group-title="PLAY", MTV PLUS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206245.ts
+#EXTINF:-1 group-title="PLAY", ZING
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206310.ts
+#EXTINF:-1 group-title="PLAY", BINDASS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206196.ts
+#EXTINF:-1 group-title="PLAY", BOOGLE BOLLYWOOD
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="PLAY", CARTOON NETWORK
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206192.ts
+#EXTINF:-1 group-title="PLAY", DISCOVERY KIDS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206142.ts
+#EXTINF:-1 group-title="PLAY", DISNEY CHANNEL
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206206.ts
+#EXTINF:-1 group-title="PLAY", DISNEY JUNIOR
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206194.ts
+#EXTINF:-1 group-title="PLAY", HUNGAMA TV
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", SUPER HUNGAMA
+http://103.179.246.243:8000/play/a01x
+#EXTINF:-1 group-title="PLAY", NICK JUNIOR
+http://103.179.246.243:8000/play/a023
+#EXTINF:-1 group-title="PLAY", NICK CHANNEL
+http://103.179.246.243:8000/play/a01z
+#EXTINF:-1 group-title="PLAY", SONIC
+http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", SONIC TV
+http://103.179.246.243:8000/play/a021
+#EXTINF:-1 group-title="PLAY", POGO TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206214.ts
+#EXTINF:-1 group-title="PLAY", SONY YAY
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206295.ts
+#EXTINF:-1 group-title="PLAY", GUBBARE TV
+https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+#EXTINF:-1 group-title="PLAY", PASAND TV
+http://103.139.171.5:5001/live.php?c=Pasand&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", ZEE GANGA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206212.ts
+#EXTINF:-1 group-title="PLAY", DD UP
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206268.ts
+#EXTINF:-1 group-title="PLAY", ANJAN TV
+http://89.187.162.109/ANJANTV/mono.m3u8
+#EXTINF:-1 group-title="PLAY", ABZY DHAKAD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21084&extension=ts&play_token=gsdB2WyLjd
+#EXTINF:-1 group-title="PLAY", SANGEET BHOJPURI
+http://14.199.164.20:4001/play/a0mv/index.m3u8
+#EXTINF:-1 group-title="PLAY", B4U BHOJPURI
+http://14.199.164.20:4001/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="PLAY", BHOJPURI CINEMA
+http://14.199.164.20:4001/play/a0rj/index.m3u8
+#EXTINF:-1 group-title="PLAY", DABANGG TV
+http://14.199.164.20:4001/play/a0nb/index.m3u8
+#EXTINF:-1 group-title="PLAY", FILMACHI
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8
+#EXTINF:-1 group-title="PLAY", OSCAR MOVIES BHOJPURI
+http://103.139.171.5:5001/jiotvplus/live.php?c=Oscar_Movies&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", RISHU MOVIES BHOJPURI
+https://m-c010-j2apps.s.llnwi.net/hls/8071.RishuMovies.in.m3u8
+#EXTINF:-1 group-title="PLAY", ZEE BISKOPE
+http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-216
+#EXTINF:-1 group-title="PLAY", DILLAGI TV
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21174&extension=ts&play_token=jQSxYAHV43
+#EXTINF:-1 group-title="PLAY", DHAMAAL TV
+http://103.139.171.5:5001/jiotvplus/live.php?c=Dhamaal_TV&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", MAIBOLI TV
+http://14.199.164.20:4001/play/a0na/index.m3u8
+#EXTINF:-1 group-title="PLAY", ENTERR 10
+MOVIES
+http://14.199.164.20:4001/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="PLAY", PEACE OF MIND
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206233.ts
+#EXTINF:-1 group-title="PLAY", PEACE MUSIC
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206125.ts
+#EXTINF:-1 group-title="PLAY", AASTHA TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206287.ts
+#EXTINF:-1 group-title="PLAY", AASTHA BHAJAN
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206286.ts
+#EXTINF:-1 group-title="PLAY", ARIHANT TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206281.ts
+#EXTINF:-1 group-title="PLAY", DARSHAN24
+http://14.199.164.20:4001/play/a0pg/index.m3u8
+#EXTINF:-1 group-title="PLAY", DIVYA TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206122.ts
+#EXTINF:-1 group-title="PLAY", HARE KRSNA TV
+https://m-c04-j2apps.s.llnwi.net/hls/5265.HareKrsna.in.m3u8
+#EXTINF:-1 group-title="PLAY", SANATAN TV
+https://m-c05-j2apps.s.llnwi.net/hls/8013.SanatanTV.in.m3u8
+#EXTINF:-1 group-title="PLAY", SANSKAR TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206144.ts
+#EXTINF:-1 group-title="PLAY", SATSANG TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206143.ts
+#EXTINF:-1 group-title="PLAY", SOHAM TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206231.ts
+#EXTINF:-1 group-title="PLAY", OM SHANTI
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206164.ts
+#EXTINF:-1 group-title="PLAY", AWAKENING TV
+http://103.139.171.5:5001/jiotvplus/live.php?c=Awakening&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", STAR SPORTS 1 HINDI HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20732&extension=ts&play_token=sjPrtmW6H9
+#EXTINF:-1 group-title="PLAY", STAR SPORTS 1 HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203432.ts
+#EXTINF:-1 group-title="PLAY", STAR SPORTS 2 HD
+http://103.179.246.243:8000/play/a00d
+#EXTINF:-1 group-title="PLAY", STAR SPORTS 3
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203429.ts
+#EXTINF:-1 group-title="PLAY", STAR SPORTS SELECT 1 HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=20733&extension=ts&play_token=8KsZWeCql4
+#EXTINF:-1 group-title="PLAY", STAR SPORTS 2 SELECT HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203427.ts
+#EXTINF:-1 group-title="PLAY", SONY SIX HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203434.ts
+#EXTINF:-1 group-title="PLAY", SONY TEN1 HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203426.ts
+#EXTINF:-1 group-title="PLAY", SONY TEN2 HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203425.ts
+#EXTINF:-1 group-title="PLAY", SONY TEN3 HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203424.ts
+#EXTINF:-1 group-title="PLAY", DD SPORTS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203422.ts
+#EXTINF:-1 group-title="PLAY", EUROSPORTS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203435.ts
+#EXTINF:-1 group-title="PLAY", STAR SPORTS TAMIL
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203421.ts
+#EXTINF:-1 group-title="PLAY", ANIMAL PLANET
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206282.ts
+#EXTINF:-1 group-title="PLAY", DD KISAN
+http://103.139.171.5:5001/jiotvplus/live.php?c=DD_Kisan&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", DISCOVERY HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206263.ts
+#EXTINF:-1 group-title="PLAY", DISCOVERY SCIENCE
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=44677&extension=ts&play_token=O2wmsmJkwX
+#EXTINF:-1 group-title="PLAY", DISCOVERY TURBO
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=69307&extension=ts&play_token=khqAdAq3fB
+#EXTINF:-1 group-title="PLAY", EPIC HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206260.ts
+#EXTINF:-1 group-title="PLAY", FOOD FOOD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206156.ts
+#EXTINF:-1 group-title="PLAY", FOX LIFE
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206259.ts
+#EXTINF:-1 group-title="PLAY", GREEN TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206208.ts
+#EXTINF:-1 group-title="PLAY", HISTORYTV 18
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206258.ts
+#EXTINF:-1 group-title="PLAY", NATIONAL GEOGRAPHIC
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206242.ts
+#EXTINF:-1 group-title="PLAY", NAT GEO WILD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206243.ts
+#EXTINF:-1 group-title="PLAY", NDTV GOOD TIMES
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206167.ts
+#EXTINF:-1 group-title="PLAY", SONY BBC EARTH HD
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206299.ts
+#EXTINF:-1 group-title="PLAY", TLC
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=64405&extension=ts&play_token=j61FbFR9w0
+#EXTINF:-1 group-title="PLAY", TRAVEL XP
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21047&extension=ts&play_token=FM9BYIKyog
+#EXTINF:-1 group-title="PLAY", ZEE ZEST
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206249.ts
+#EXTINF:-1 group-title="PLAY", AAJ TAK
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206290.ts
+#EXTINF:-1 group-title="PLAY", ABP NEWS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206285.ts
+#EXTINF:-1 group-title="PLAY", BHARAT SAMACHAR
+http://14.199.164.20:4001/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="PLAY", CNBC AWAAZ
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206205.ts
+#EXTINF:-1 group-title="PLAY", DD NEWS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206271.ts
+#EXTINF:-1 group-title="PLAY", GOOD NEWS TODAY
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206134.ts
+#EXTINF:-1 group-title="PLAY", INDIA NEWS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206188.ts
+#EXTINF:-1 group-title="PLAY", INDIA TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206187.ts
+#EXTINF:-1 group-title="PLAY", JAN TV
+https://m-c09-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8
+#EXTINF:-1 group-title="PLAY", JANTA TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206250.ts
+#EXTINF:-1 group-title="PLAY", KHABAR BHARATI
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206168.ts
+#EXTINF:-1 group-title="PLAY", NDTV INDIA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206184.ts
+#EXTINF:-1 group-title="PLAY", NEWS24
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206162.ts
+#EXTINF:-1 group-title="PLAY", NEWS NATION
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206237.ts
+#EXTINF:-1 group-title="PLAY", NEWS WORLD INDIA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206126.ts
+#EXTINF:-1 group-title="PLAY", NEWS18 INDIA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206239.ts
+#EXTINF:-1 group-title="PLAY", SAHARA SAMAY
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206176.ts
+#EXTINF:-1 group-title="PLAY", SUDARSHAN NEWS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206178.ts
+#EXTINF:-1 group-title="PLAY", TIMES NOW BHARAT
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206204.ts
+#EXTINF:-1 group-title="PLAY", TOTAL TV
+http://14.199.164.20:4001/play/a0oc/index.m3u8
+#EXTINF:-1 group-title="PLAY", ZEE BUSINESS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206145.ts
+#EXTINF:-1 group-title="PLAY", ZEE HINDUSTAN
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206223.ts
+#EXTINF:-1 group-title="PLAY", ZEE NEWS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206222.ts
+#EXTINF:-1 group-title="PLAY", APN TV
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206128.ts
+#EXTINF:-1 group-title="PLAY", NEWS INDIA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206133.ts
+#EXTINF:-1 group-title="PLAY", ABP GANGA
+https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in.m3u8
+#EXTINF:-1 group-title="PLAY", INDIA NEWS RAJASTHAN
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206179.ts
+#EXTINF:-1 group-title="PLAY", INDIA NEWS HARYANA
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206181.ts
+#EXTINF:-1 group-title="PLAY", INDIA NEWS MP
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206183.ts
+#EXTINF:-1 group-title="PLAY", INDIA NEWS UP
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206171.ts
+#EXTINF:-1 group-title="PLAY", NEWS18 BIHAR
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206240.ts
+#EXTINF:-1 group-title="PLAY", NEWS18 MP
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206174.ts
+#EXTINF:-1 group-title="PLAY", NEWS18 RAJASTHAN
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206238.ts
+#EXTINF:-1 group-title="PLAY", NEWS18 UP
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206171.ts
+#EXTINF:-1 group-title="PLAY", ZEE BIHAR JHARKHAND
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206221.ts
+#EXTINF:-1 group-title="PLAY", ZEE MP
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206124.ts
+#EXTINF:-1 group-title="PLAY", ZEE RAJASTHAN
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206218.ts
+#EXTINF:-1 group-title="PLAY", ZEE UP
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206249.ts
+#EXTINF:-1 group-title="PLAY", NEWS STATE
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206236.ts
+#EXTINF:-1 group-title="PLAY", NEWS X
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206180.ts
+#EXTINF:-1 group-title="PLAY", REPUBLIC BHARAT
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206129.ts
+#EXTINF:-1 group-title="PLAY", E NEWS24
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206146.ts
+#EXTINF:-1 group-title="PLAY", PRAG NEWS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206146.ts
+#EXTINF:-1 group-title="PLAY", CVR NEWS
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206161.ts
+#EXTINF:-1 group-title="PLAY", ABN NEWS TV
+#EXTINF:-1 group-title="PLAY", TV9 BHARATVARSH
+http://14.199.164.20:4001/play/a0pu/index.m3u8
+#EXTINF:-1 group-title="PLAY", SUN BANGLA
+http://103.179.246.243:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="PLAY", ZEE BANGLA
+http://103.179.246.243:8000/play/a03c
+#EXTINF:-1 group-title="PLAY", COLORS BANGLA
+http://103.179.246.243:8000/play/a038
+#EXTINF:-1 group-title="PLAY", AAKASH AATH
+http://103.139.171.5:5001/jiotvplus/live.php?c=Aakaash_bangla&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", STAR JALSA
+http://103.179.246.243:8000/play/a03d
+#EXTINF:-1 group-title="PLAY", STAR JALSA HD
+http://103.179.246.243:8000/play/a03z
+#EXTINF:-1 group-title="PLAY", ZEE BANGLA HD
+http://103.179.246.243:8000/play/a04b
+#EXTINF:-1 group-title="PLAY", SONY AATH
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_aath&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="PLAY", ENTERR10 BANGLA
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="PLAY", NEWS18 BANGLA
+http://103.179.246.243:8000/play/a058
+#EXTINF:-1 group-title="PLAY", TV9 BANGLA
+http://14.199.164.20:4001/play/a0tq/index.m3u8
+#EXTINF:-1 group-title="PLAY", ZEE BANGLA CINEMA
+http://103.179.246.243:8000/play/a03r
+#EXTINF:-1 group-title="PLAY", JALSA MOVIES HD
+http://103.179.246.243:8000/play/a042
+#EXTINF:-1 group-title="PLAY", KHUSHBU BANGLA
+https://itvoign.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+#EXTINF:-1 group-title="PLAY", SANGEET BANGLA
+http://14.199.164.20:4001/play/a0mu/index.m3u8
+#EXTINF:-1 group-title="PLAY", BANGLA TALKIES
+http://14.199.164.20:4001/play/a0rh/index.m3u8
+
+
+
+
+
