@@ -1,0 +1,271 @@
+#EXTINF:-1 group-title="PLAY", B4U Bhojpuri
+http://14.199.164.20:4001/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="PLAY", Filamchi Bhojpuri
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8
+#EXTINF:-1 group-title="PLAY", Bhojpuri Cinema
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/193007
+#EXTINF:-1 group-title="PLAY", Oscar Movies Bhojpuri
+http://103.139.171.5:5001/jiotvplus/live.php?c=Oscar_Movies&q=800&e=.m3u8
+#EXTINF:-1 group-title="PLAY", Dabangg TV
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862645&extension=ts&play_token=MrbELrPeIM
+#EXTINF:-1 group-title="PLAY", Rishu Movies Bhojpuri
+https://m-c010-j2apps.s.llnwi.net/hls/8071.RishuMovies.in.m3u8
+#EXTINF:-1 group-title="PLAY", Zee Biskope
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/193009
+#EXTINF:-1 group-title="PLAY", Pasand TV
+http://103.139.171.5:5001/jiotvplus/live.php?c=Pasand&q=800&e=.m3u8
+#EXTINF:-1 group-title="PLAY", Anjan TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/286918
+#EXTINF:-1 group-title="PLAY", Zee Ganga
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862634&extension=ts&play_token=j4S3bUYySF
+#EXTINF:-1 group-title="PLAY", Enterr10
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862667&extension=ts&play_token=p4dJRkCP6i
+#EXTINF:-1 group-title="PLAY", Abzy Dhakad
+https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
+#EXTINF:-1 group-title="PLAY", DD Bihar
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206273.ts
+#EXTINF:-1 group-title="PLAY", DD UP
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/193051
+#EXTINF:-1 group-title="PLAY", Sangeet Bhojpuri
+http://14.199.164.20:4001/play/a0mv/index.m3u8
+#EXTINF:-1 group-title="PLAY", And Pictures
+http://mixediptv.com:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/34118
+#EXTINF:-1 group-title="PLAY", And Pictures HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862617&extension=ts&play_token=pFaESUFjxt
+#EXTINF:-1 group-title="PLAY", Abzy Movies
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
+#EXTINF:-1 group-title="PLAY", B4U Kadak
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/49556
+#EXTINF:-1 group-title="PLAY", B4U Movies
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862631&extension=ts&play_token=ZAnZCJtxVi
+#EXTINF:-1 group-title="PLAY", B4U Plus
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1367
+#EXTINF:-1 group-title="PLAY", Bflix Movies
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/73791
+#EXTINF:-1 group-title="PLAY", Cinema TV
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="PLAY", Colors Cineplex
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862640&extension=ts&play_token=gzNTzTlMUE
+#EXTINF:-1 group-title="PLAY", Colors Cineplex HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862639&extension=ts&play_token=uX6AhTeM1I
+#EXTINF:-1 group-title="PLAY", Colors Cineplex Bollywood
+http://5gfksa.ltd:2052/live/Shamim2/123456/43167.ts
+#EXTINF:-1 group-title="PLAY", Colors Cineplex Superhits
+http://103.139.171.5:5001/jiotvplus/live.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+#EXTINF:-1 group-title="PLAY", Dhinchak1
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="PLAY", Dhinchak2
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="PLAY", Sahara Filmy
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21183&extension=ts&play_token=7snZeHiZ8M
+#EXTINF:-1 group-title="PLAY", Maha Movie
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/82608
+#EXTINF:-1 group-title="PLAY", Manoranjan TV
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862678&extension=ts&play_token=0f90POKopq
+#EXTINF:-1 group-title="PLAY", Manoranjan Movies
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/192200
+#EXTINF:-1 group-title="PLAY", Manoranjan Grand
+http://14.199.164.20:4001/play/a0m2/index.m3u8
+#EXTINF:-1 group-title="PLAY", Movie Plus
+http://14.199.164.20:4001/play/a0os/index.m3u8
+#EXTINF:-1 group-title="PLAY", Star Gold HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862738&extension=ts&play_token=r7YTfV2Cp1
+#EXTINF:-1 group-title="PLAY", Star Gold2
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862737&extension=ts&play_token=nhy7wFreFO
+#EXTINF:-1 group-title="PLAY", Star Gold Select HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862739&extension=ts&play_token=efeavxeSa0
+#EXTINF:-1 group-title="PLAY", Star Utsav Movies
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206304.ts
+#EXTINF:-1 group-title="PLAY", UTV Movies
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862778&extension=ts&play_token=gssKjH7WjG
+#EXTINF:-1 group-title="PLAY", UTV Action http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862775&extension=ts&play_token=15JIpNtB1W
+#EXTINF:-1 group-title="PLAY", UTV HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862777&extension=ts&play_token=AK68M1Alg1
+#EXTINF:-1 group-title="PLAY", Sony Max
+http://208.86.19.13:81/706.stream/index.m3u8
+#EXTINF:-1 group-title="PLAY", Sony Max HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862720&extension=ts&play_token=Uy3ZuzSLNH
+#EXTINF:-1 group-title="PLAY", Sony Max2
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862718&extension=ts&play_token=YmsEnZd7Id
+#EXTINF:-1 group-title="PLAY", Sony Wah
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862732&extension=ts&play_token=wm47eR4m8E
+#EXTINF:-1 group-title="PLAY", Wow Cinema
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862779&extension=ts&play_token=Y7pkdiP3s3
+#EXTINF:-1 group-title="PLAY", Zee Action
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862780&extension=ts&play_token=8LIKxqyPPa
+#EXTINF:-1 group-title="PLAY", Zee Anmol Cinema
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", Zee Bollywood
+http://cineapp.org:8000/mag00:1A:79:00:02:42/zWPn999BBr/76544
+#EXTINF:-1 group-title="PLAY", Zee Cinema
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862789&extension=ts&play_token=iImTTn3iba
+#EXTINF:-1 group-title="PLAY", Zee Cinema HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862787&extension=ts&play_token=asn7G9IvEi
+#EXTINF:-1 group-title="PLAY", Zee Classic
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862790&extension=ts&play_token=JnIJO7PeRQ
+#EXTINF:-1 group-title="PLAY", Star Plus
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", Star Plus HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862742&extension=ts&play_token=8s6TrDm8Dr
+#EXTINF:-1 group-title="PLAY", Star Plus HD
+Tata Play
+http://208.86.19.13:81/607.stream/index.m3u8
+#EXTINF:-1 group-title="PLAY", Star Bharat
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", Star Bharat HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862735&extension=ts&play_token=fXsHEhL2yW
+#EXTINF:-1 group-title="PLAY", Star Utsav
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862749&extension=ts&play_token=DqmHJlp103
+#EXTINF:-1 group-title="PLAY", Star Utsav Tata Play
+http://144.217.70.181:9587/hin2/STARUTSAV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", Zee TV
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862795&extension=ts&play_token=tNUuwky5RY
+#EXTINF:-1 group-title="PLAY", Zee TV HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862794&extension=ts&play_token=5owczpDIST
+#EXTINF:-1 group-title="PLAY", And TV HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862619&extension=ts&play_token=LF32Wg3CD9
+#EXTINF:-1 group-title="PLAY", And TV HD Tata Play
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21037&extension=ts&play_token=wwVDvWxAL3
+#EXTINF:-1 group-title="PLAY", Sony
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", Sony HD
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+#EXTINF:-1 group-title="PLAY", Sony Sab
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="PLAY", Sony Sab HD.
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862724&extension=ts&play_token=QgebvsMc6b
+#EXTINF:-1 group-title="PLAY", Sony Sab HD Tata Play
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", Sony Pal
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862722&extension=ts&play_token=N0BiGiBGEU
+#EXTINF:-1 group-title="PLAY", Zee Anmol
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862781&extension=ts&play_token=Piur7zqqJW
+#EXTINF:-1 group-title="PLAY", Colors
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/chunklist_w2110031398.m3u8
+#EXTINF:-1 group-title="PLAY", Colors HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862641&extension=ts&play_token=l1o6SJ4IPf
+#EXTINF:-1 group-title="PLAY", Colors Rishtey
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/49547
+#EXTINF:-1 group-title="PLAY", Big Magic
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862783&extension=ts&play_token=UvXRrSS4Y9
+#EXTINF:-1 group-title="PLAY", Dangal TV
+http://144.217.70.181:9587/hin2/DANGAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PLAY", Dangal2
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862666&extension=ts&play_token=Sv7EwvsKVc
+#EXTINF:-1 group-title="PLAY", Shemaroo TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/192955
+#EXTINF:-1 group-title="PLAY", Shemaroo Umang
+http://14.199.164.20:4001/play/a0nl/index.m3u8
+#EXTINF:-1 group-title="PLAY", Ishara TV
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
+#EXTINF:-1 group-title="PLAY", Azaad TV
+https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
+#EXTINF:-1 group-title="PLAY", Atrangi 
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 group-title="PLAY", The Q
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862771&extension=ts&play_token=FaAxX9z9yE
+#EXTINF:-1 group-title="PLAY", Investigation Discovery
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862675&extension=ts&play_token=t2oxRVOSKL
+#EXTINF:-1 group-title="PLAY", DD National
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862648&extension=ts&play_token=C8nn3Rv9De
+#EXTINF:-1 group-title="PLAY", DD Bharati
+http://txm.flysat.live/152095941314263/152055486013590/206274
+#EXTINF:-1 group-title="PLAY", DD Retro
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="PLAY", Firangi
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21182&extension=ts&play_token=Ifsx0VIIU6
+#EXTINF:-1 group-title="PLAY", Sahara One
+http://longstream-03.ajaah.com/PlayBoxTV/SaharaOne/playlist.m3u8
+#EXTINF:-1 group-title="PLAY", Abzy Cool
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21083&extension=ts&play_token=IWBoTFoUaL
+#EXTINF:-1 group-title="PLAY", Cartoon Network
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862636&extension=ts&play_token=IDqZwcCeaS
+#EXTINF:-1 group-title="PLAY", Discovery Kids
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862656&extension=ts&play_token=Gc8W4TKMln
+#EXTINF:-1 group-title="PLAY", Disney Channel
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862661&extension=ts&play_token=OZhrezp8b9
+#EXTINF:-1 group-title="PLAY", Disney Channel
+http://103.179.246.243:8000/play/a01y
+#EXTINF:-1 group-title="PLAY", Disney Junior
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862662&extension=ts&play_token=EG5KzMTJby
+#EXTINF:-1 group-title="PLAY", Disney Junior
+http://103.179.246.243:8000/play/a020
+#EXTINF:-1 group-title="PLAY", Cbebies TV
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862637&extension=ts&play_token=cBRJwJapaH
+#EXTINF:-1 group-title="PLAY", Hungama TV
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862674&extension=ts&play_token=F84Zld0XpP
+#EXTINF:-1 group-title="PLAY", Hungama TV
+http://103.179.246.243:8000/play/a01x
+#EXTINF:-1 group-title="PLAY", Super Hungama
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862679&extension=ts&play_token=We9tZV6bPA
+#EXTINF:-1 group-title="PLAY", Nick Junior
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862697&extension=ts&play_token=Elrnt4cSmx
+#EXTINF:-1 group-title="PLAY", Nick Channel
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862696&extension=ts&play_token=VtGEFxhPAF
+#EXTINF:-1 group-title="PLAY", Sonic
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862700&extension=ts&play_token=6Psyx3FbSz
+#EXTINF:-1 group-title="PLAY", Pogo TV
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862706&extension=ts&play_token=jEyhPyoN6h
+#EXTINF:-1 group-title="PLAY", Sony Yay
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862733&extension=ts&play_token=05ghD8BFfX
+#EXTINF:-1 group-title="PLAY", Gubbare TV
+https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+#EXTINF:-1 group-title="PLAY", Star Sports1 Hindi HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862744&extension=ts&play_token=NOZqw4Vu7q
+#EXTINF:-1 group-title="PLAY", Star Sports1 HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862743&extension=ts&play_token=fV0Wm6qoxK
+#EXTINF:-1 group-title="PLAY", Star Sports2 HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862746&extension=ts&play_token=EXYzs1Mrbh
+#EXTINF:-1 group-title="PLAY", Star Sports3
+http://208.86.19.13:81/732.stream/index.m3u8
+#EXTINF:-1 group-title="PLAY", Star Sports1 Select HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862747&extension=ts&play_token=DxCLsLwIJN
+#EXTINF:-1 group-title="PLAY", Star Sports2 Select HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862748&extension=ts&play_token=FOdzuVCu67
+#EXTINF:-1 group-title="PLAY", Sony Six HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862725&extension=ts&play_token=p7CcvNDO5c
+#EXTINF:-1 group-title="PLAY", Sony Ten1 HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862726&extension=ts&play_token=tUML155N5D
+#EXTINF:-1 group-title="PLAY", Sony Ten2 HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862727&extension=ts&play_token=QFznnrLvGw
+#EXTINF:-1 group-title="PLAY", Sony Ten3 HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862728&extension=ts&play_token=FE3asyZUFH
+#EXTINF:-1 group-title="PLAY", DD Sports
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862649&extension=ts&play_token=msMI4nbT0l
+#EXTINF:-1 group-title="PLAY", Eurosports
+http://txm.flysat.live:80/live/152095941314263/152055486013590/203435.ts
+#EXTINF:-1 group-title="PLAY", Eurosports
+http://103.179.246.243:8000/play/a00o
+#EXTINF:-1 group-title="PLAY", 9X Jalwa
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862621&extension=ts&play_token=mFdf8yIy7W
+#EXTINF:-1 group-title="PLAY", 9XM
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862622&extension=ts&play_token=ku6U30NSDU
+#EXTINF:-1 group-title="PLAY", B4U Music
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862632&extension=ts&play_token=yrIC2xRrXY
+#EXTINF:-1 group-title="PLAY", I Love Music
+http://14.199.164.20:4001/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="PLAY", Masti TV
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862680&extension=ts&play_token=IGsVsuZKwW
+#EXTINF:-1 group-title="PLAY", MTV Beats HD
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862689&extension=ts&play_token=mWoVZj65rU
+#EXTINF:-1 group-title="PLAY", Music India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

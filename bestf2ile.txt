@@ -1,0 +1,28 @@
+#EXTINF:-1 group-title="PLAY", Good News Today
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206134.ts
+#EXTINF:-1 group-title="PLAY", India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 group-title="PLAY", India TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/49577
+#EXTINF:-1 group-title="PLAY", Jan TV
+http://p5.giffy.be:8080/play/live.php?mac=00:1a:79:1d:0f:de&stream=21164&extension=ts&play_token=1CmgeFzEWV
+#EXTINF:-1 group-title="PLAY", Janta TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/60348
+#EXTINF:-1 group-title="PLAY", Khabar Bharati
+http://txm.flysat.live:80/live/152095941314263/152055486013590/206168.ts
+#EXTINF:-1 group-title="PLAY", Naxatra News
+https://m-c05-j2apps.s.llnwi.net/hls/7065.NaxatraNews.in.m3u8
+#EXTINF:-1 group-title="PLAY", National Voice
+https://m-c05-j2apps.s.llnwi.net/hls/7048.NationalVoice.in.m3u8
+#EXTINF:-1 group-title="PLAY", NDTV India
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/166390
+#EXTINF:-1 group-title="PLAY", News24
+https://m-c04-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
+#EXTINF:-1 group-title="PLAY", News Nation
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+#EXTINF:-1 group-title="PLAY", News Express
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/287033
+#EXTINF:-1 group-title="PLAY", News World India
+
+
+
